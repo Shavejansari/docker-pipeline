@@ -1,0 +1,1 @@
+Ansible Lint, a Python command-line tool, helps you catch errors in Ansible playbooks and content. Reviewing and correcting common mistakes in code or a configuration file is important to ensure that it's readable and easy to maintain.
